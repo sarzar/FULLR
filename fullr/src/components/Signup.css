@@ -1,0 +1,34 @@
+.signUp {
+    color: rgb(179, 53, 53);
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    padding-top: 4rem;
+    height: 100%;
+    font-size: 1.2cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+
+
+.firstName {
+    color: rgb(199, 39, 39);
+    display: flex;
+    justify-content: center;
+    padding-bottom: rem;
+    padding-top: 2rem;
+    height: 100%;
+    font-size: 0.656cm;
+    
+}
+
+.enterValue{
+    display: flex;
+    color: rgb(199, 39, 39); 
+    margin: 0 auto;
+    align-self: center;
+    height: 14h;
+    padding-left: 12vh;
+    padding-top: 0vh;
+}
